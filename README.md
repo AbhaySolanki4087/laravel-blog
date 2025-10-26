@@ -1,8 +1,12 @@
 📝 EasyBlog – Laravel Blogging Platform
+
 📌 Overview
-EasyBlog is a full-stack blogging platform built using Laravel. It allows users to create, edit, and manage blog posts with category-based filtering and secure authentication. Designed with a clean UI and scalable backend, it's ideal for showcasing full-stack development skills.
+    EasyBlog is a full-stack blogging platform built using Laravel. 
+    It allows users to create, edit, and manage blog posts with category-based filtering and secure authentication. 
+    Designed with a clean UI and scalable backend, it's ideal for showcasing full-stack development skills.
 
 ⚙️ Tech Stack
+
 Backend: Laravel 8+, PHP
 
 Frontend: Blade templating, Bootstrap 5
@@ -16,6 +20,7 @@ Version Control: Git & GitHub
 CI/CD: GitHub Actions (Laravel workflow)
 
 🚀 Features
+
 ✅ User registration and login
 
 ✅ Create, edit, delete blog posts
@@ -29,6 +34,7 @@ CI/CD: GitHub Actions (Laravel workflow)
 ✅ SQLite setup for testing via GitHub Actions
 
 📂 Folder Structure
+
 app/
 ├── Http/
 │   └── Controllers/
