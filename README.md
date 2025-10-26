@@ -38,9 +38,12 @@ CI/CD: GitHub Actions (Laravel workflow)
 app/
 ├── Http/
 │   └── Controllers/
+
 ├── Models/
+
 resources/
 ├── views/
+
 routes/
 ├── web.php
 
