@@ -35,16 +35,7 @@ CI/CD: GitHub Actions (Laravel workflow)
 
 📂 Folder Structure
 
-app/
-├── Http/
-│   └── Controllers/
 
-├── Models/
 
-resources/
-├── views/
-
-routes/
-├── web.php
 
 
