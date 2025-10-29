@@ -33,7 +33,7 @@ CI/CD: GitHub Actions (Laravel workflow)
 
 ✅ SQLite setup for testing via GitHub Actions
 
-📂 Folder Structur
+
 
 
 
